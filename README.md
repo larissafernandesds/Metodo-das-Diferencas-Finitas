@@ -1,7 +1,5 @@
 # Simulação da Distribuição de Potencial em uma Micro Linha com Condutores Longos por Diferenças Finitas
 
-Este repositório contém um código em Python que simula a distribuição de potencial em uma micro linha utilizando o método das diferenças finitas. 
-
 ## Descrição do Código
 
 O código `dif_finitas.py` implementa o seguinte:
