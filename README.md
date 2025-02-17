@@ -21,7 +21,7 @@ O código `dif_finitas.py` implementa o seguinte:
 ## Como Executar o Código
 
 1. **Pré-requisitos:**
-   - Certifique-se de que você possui o Python 3 instalado em seu sistema.
+   - Python 3 instalado em seu sistema.
    - Instale as bibliotecas necessárias:
      ```bash
      pip install numpy matplotlib
