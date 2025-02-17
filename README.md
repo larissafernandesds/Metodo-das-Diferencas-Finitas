@@ -12,7 +12,7 @@ O código `dif_finitas.py` implementa o seguinte:
    - Define as permissividades dos materiais que compõem a micro linha (ε₀ e 6ε₀).
 
 3. **Método das diferenças finitas:**
-   - Utiliza o método iterativo de Gauss-Seidel para resolver a equação de Laplace discretizada e obter a distribuição de potencial nos pontos da malha.
+   - Utiliza método da relaxação para resolver a equação de Laplace discretizada e obter a distribuição de potencial nos pontos da malha.
    - Implementa a condição de contorno de Neumann na interface entre os materiais com diferentes permissividades.
 
 4. **Visualização dos resultados:**
@@ -36,4 +36,6 @@ O código `dif_finitas.py` implementa o seguinte:
      ```
 
 3. **Visualização:**
-   - O código irá gerar um gráfico da distribuição de potencial na micro linha, mostrando as equipotenciais.
+   - O código irá gerar um gráfico da distribuição de potencial na micro linha, mostrando as equipotenciais.  
+   - Para mais informações, leia o **relatório** disponível nesse repositório.
+ 
